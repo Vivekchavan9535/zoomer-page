@@ -133,7 +133,7 @@ box-shadow: 1px 2px 6px black;
     
 }
 
-@media  screen and (max-width:415px) {
+@media  screen and (max-width:414px) {
     *{
         margin: 0;
         padding: 0;
